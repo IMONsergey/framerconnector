@@ -29,6 +29,7 @@ Use this checklist when reviewing changes to the Framer Connector workspace. It 
 - [ ] `npm run doctor` passes for changes to scripts, setup, or tracked-file rules.
 - [ ] Any new diagnostic has both a success path and an actionable failure message.
 - [ ] Documentation-only changes have been checked against `README.md`, `docs/SETUP.md`, `docs/USAGE.md`, and `docs/TROUBLESHOOTING.md`.
+- [ ] Review criteria remain consistent with `docs/github-workflow.md`.
 - [ ] The final diff has been reviewed after the branch was updated from `main`.
 
 ## Framer boundary
